@@ -27,3 +27,8 @@ open data sets for machine learning pertaining to porous materials.
 | MOFs (hypothetical) | CO2, N2 adsorption | ? | 10.1038/s41586-019-1798-7 | ca. 325,000 |
 | COFs (experimental) | CH4, H2, O2, Xe, Kr, H2S adsorption | ? | 10.1021/acscentsci.0c00988 | ca. 500 |
 
+## labeled nodes for supervised learning
+| material class | target y | DOI | size of data set|
+| ----------- | ----------- | ----------- | ----------- | 
+| MOFs (experimental) | point charges on atoms | 10.1021/acs.chemmater.5b03836 | 2,000 |
+| MOFs | point charges on atoms | 10.1016/j.matt.2021.02.015 | 14,000 |
