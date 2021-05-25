@@ -3,6 +3,10 @@ open data sets for machine learning pertaining to porous materials.
 * MOF = metal-organic framework
 * COF = covalent organic framework
 
+<p align="center">
+<img width="200px" src="nott300.png"/>
+</p>
+
 ## crystal structures
 
 #### experimental
