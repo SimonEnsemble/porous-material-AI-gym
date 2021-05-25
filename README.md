@@ -28,9 +28,9 @@ open data sets for machine learning pertaining to porous materials.
 | COFs (experimental) | CH4, H2, O2, Xe, Kr, H2S adsorption | ? | 10.1021/acscentsci.0c00988 | ca. 500 |
 
 ## labeled nodes for supervised learning
-| material class | experimental? | hypothetical? | target y | Reference | size of data set (# MOFs) |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
-| MOFs | Y | N | DDEC6 charges on atoms | [Paper](10.1021/acs.chemmater.5b03836), [Database](https://zenodo.org/record/3986573#.XzfKiJMzY8N) | ca. 3,000 |
-| MOFs | Y | Y | DDEC6/CM5/Bader charges on atoms | [Paper](10.1016/j.matt.2021.02.015), [Database](https://github.com/arosen93/QMOF) | ca. 18,000 (DDEC6/CM5), ca. 5,000 (Bader) |
-| MOFs | Y| Y | Effective bond orders on atoms | [Paper](10.1016/j.matt.2021.02.015), [Database](https://github.com/arosen93/QMOF) | ca. 18,000 |
-| MOFs | Y| N | Oxidation states on atoms | [Paper](https://chemrxiv.org/articles/preprint/Using_Collective_Knowledge_to_Assign_Oxidation_States/11604129/1), [Database](https://archive.materialscloud.org/record/2019.0085) | ? |
+| material class | target y | Reference | size of data set (# MOFs) |
+| ----------- | ----------- | ----------- | ----------- | 
+| MOFs (experimental) | DDEC6 charges on atoms | [Paper](10.1021/acs.chemmater.5b03836), [Database](https://zenodo.org/record/3986573#.XzfKiJMzY8N) | ca. 3,000 |
+| MOFs (experimental and hypothetical) | DDEC6/CM5/Bader charges on atoms | [Paper](10.1016/j.matt.2021.02.015), [Database](https://github.com/arosen93/QMOF) | ca. 18,000 (DDEC6/CM5), ca. 5,000 (Bader) |
+| MOFs (experimental and hypothetical) | Effective bond orders on atoms | [Paper](10.1016/j.matt.2021.02.015), [Database](https://github.com/arosen93/QMOF) | ca. 18,000 |
+| MOFs (experimental) | Oxidation states on atoms | [Paper](https://chemrxiv.org/articles/preprint/Using_Collective_Knowledge_to_Assign_Oxidation_States/11604129/1), [Database](https://archive.materialscloud.org/record/2019.0085) | ? |
