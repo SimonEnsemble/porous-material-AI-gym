@@ -18,7 +18,8 @@ open data sets for machine learning pertaining to porous materials.
 ## labeled porous materials for supervised learning
 
 | material class | target y | features x provided? | DOI | size of data set|
+| ----------- | ----------- | ----------- | ----------- | ----------- | 
 | COFs (hypothetical) | CH4 deliverable capacity | yes, hand-crafted features provided. | 10.1021/acs.chemmater.8b01425 | ca. 70,000 |
 | MOFs (hypothetical) | CO2, N2 adsorption | ? | 10.1038/s41586-019-1798-7 | ca. 325,000 |
-| COFs (experimental) | CH4, H2, O2, Xe, Kr, H2S adsorption | 10.1021/acscentsci.0c00988 | ca. 500 |
+| COFs (experimental) | CH4, H2, O2, Xe, Kr, H2S adsorption | ? | 10.1021/acscentsci.0c00988 | ca. 500 |
 
