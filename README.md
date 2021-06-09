@@ -22,7 +22,7 @@ open data sets for machine learning pertaining to porous materials.
 
 | material class | target y | features x provided? | Reference | size of data set|
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
-| MOFs (hypothetical) | CO2, N2 adsorption (sim) | ? | [Paper](https://www.nature.com/articles/s41586-019-1798-7), [Database](https://doi.org/10.24435/materialscloud:2018.0016/v3) | ca. 325,000 |
+| MOFs (hypothetical) | CO2, N2 adsorption (sim) | yes | [Paper](https://www.nature.com/articles/s41586-019-1798-7), [Database](https://doi.org/10.24435/materialscloud:2018.0016/v3) | ca. 325,000 |
 | MOFs (experimental and hypothetical) | Band gaps, density of states, charge densities (sim) | yes | [Paper](10.1016/j.matt.2021.02.015), [Database](https://github.com/arosen93/QMOF) | ca. 18,000 |
 | MOFs (experimental) | Color (exp) | yes | [Paper](https://doi.org/10.1039/D0SC05337F), [Database](https://doi.org/10.24435/materialscloud:cc-j6) | ? |
 | COFs (hypothetical) | CH4 deliverable capacity (sim) | yes, hand-crafted features provided. | [Paper](https://doi.org/10.1021/acs.chemmater.8b01425), [Database](https://archive.materialscloud.org/2018.0003/v3) | ca. 70,000 |
