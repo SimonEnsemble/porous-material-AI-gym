@@ -41,3 +41,7 @@ open data sets for machine learning pertaining to porous materials.
 | MOFs (experimental and hypothetical) | DDEC6/CM5/Bader charges on atoms (sim) | [Paper](https://doi.org/10.1016/j.matt.2021.02.015), [Database](https://github.com/arosen93/QMOF)                                                                           | ca. 18,000 (DDEC6/CM5), ca. 5,000 (Bader) |
 | MOFs (experimental and hypothetical) | Effective bond orders on atoms (sim)   | [Paper](https://doi.org/10.1016/j.matt.2021.02.015), [Database](https://github.com/arosen93/QMOF)                                                                           | ca. 18,000                                |
 | MOFs (experimental)                  | Formal oxidation states on atoms (exp) | [Paper](https://chemrxiv.org/articles/preprint/Using_Collective_Knowledge_to_Assign_Oxidation_States/11604129/1), [Database](https://doi.org/10.24435/materialscloud:dq-ey) | ca. 49,000                                         |
+
+# other data sets, pertaining to materials, for machine learning
+
+see `matminer` [here](https://hackingmaterials.lbl.gov/matminer/dataset_summary.html). pointed out by [Jack Evans](https://twitter.com/jackevansADL/status/1439730395570851841).
