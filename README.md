@@ -31,7 +31,8 @@ open data sets for machine learning pertaining to porous materials.
 | MOFs (experimental)                  | Color (exp)                                          | yes                                  | [Paper](https://doi.org/10.1039/D0SC05337F), [Database](https://doi.org/10.24435/materialscloud:cc-j6)                       | ?                |
 | COFs (hypothetical)                  | CH4 deliverable capacity (sim)                       | yes, hand-crafted features provided. | [Paper](https://doi.org/10.1021/acs.chemmater.8b01425), [Database](https://archive.materialscloud.org/2018.0003/v3)          | ca. 70,000       |
 | COFs (experimental)                  | CH4, H2, O2, Xe, Kr, H2S adsorption (sim)            | ?                                    | [Paper](https://doi.org/10.1021/acscentsci.0c00988)                                                                          | ca. 500          |
-| MOFs (hypothetical)                  | H2 adsorption (sim)                                  | yes                   | [Paper](https://www.sciencedirect.com/science/article/pii/S2666389921001240#bib70) / [Database](https://datahub.hymarc.org/dataset/computational-prediction-of-hydrogen-storage-capacities-in-mofs) | ca. 100K
+| MOFs (hypothetical)                  | H2 adsorption (sim)                                  | yes                   | [Paper](https://www.sciencedirect.com/science/article/pii/S2666389921001240#bib70) / [Database](https://datahub.hymarc.org/dataset/computational-prediction-of-hydrogen-storage-capacities-in-mofs)   | ca. 100K
+| MOFs (experimental)                  | thermal stability, solvent removal stability         | yes (RAC & geometric features) | [Paper](https://www.nature.com/articles/s41597-022-01181-0)  / [Database](https://zenodo.org/record/5737968#.YjNo6lRlAuU) | ca. 2-3K (extracted from experimental lit)   
 
 ## labeled nodes for supervised learning
 
