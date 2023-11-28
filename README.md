@@ -56,6 +56,7 @@ here is a list of open-source codes for building your own crystal structure mode
 | `pormake` | [link](https://github.com/Sangwon91/PORMAKE) | [link](https://pubs.acs.org/doi/full/10.1021/acsami.1c02471) |
 | `ToBasCCo` | [link](https://github.com/peteboyd/tobascco) | [link](https://www.nature.com/articles/s41586-019-1798-7?proof=tNature) |
 | `Zeo++` | [link](http://www.zeoplusplus.org/) | [link](https://pubs.acs.org/doi/abs/10.1021/cg500158c) |
-| `stk` | [link](https://aip.scitation.org/doi/10.1063/5.0049708) | [link](https://github.com/lukasturcani/stk) |
+| `stk` | [link](https://github.com/lukasturcani/stk) | [link](https://aip.scitation.org/doi/10.1063/5.0049708) |
 | `PoreMatMod.jl` (only modifies) | [link](https://github.com/SimonEnsemble/PoreMatMod.jl) | [link](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01219) |
+| `pyCOFBuilder` | [link](https://github.com/lipelopesoliveira/pyCOFBuilder) | [link](https://arxiv.org/abs/2310.14822) |
 
