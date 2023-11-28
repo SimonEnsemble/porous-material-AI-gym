@@ -32,7 +32,8 @@ open data sets for machine learning pertaining to porous materials.
 | COFs (hypothetical)                  | CH4 deliverable capacity (sim)                       | yes, hand-crafted features provided. | [Paper](https://doi.org/10.1021/acs.chemmater.8b01425), [Database](https://archive.materialscloud.org/2018.0003/v3)          | ca. 70,000       |
 | COFs (experimental)                  | CH4, H2, O2, Xe, Kr, H2S adsorption (sim)            | ?                                    | [Paper](https://doi.org/10.1021/acscentsci.0c00988)                                                                          | ca. 500          |
 | MOFs (hypothetical)                  | H2 adsorption (sim)                                  | yes                   | [Paper](https://www.sciencedirect.com/science/article/pii/S2666389921001240#bib70) / [Database](https://datahub.hymarc.org/dataset/computational-prediction-of-hydrogen-storage-capacities-in-mofs)   | ca. 100K
-| MOFs (experimental)                  | thermal stability, solvent removal stability         | yes (RAC & geometric features) | [Paper](https://www.nature.com/articles/s41597-022-01181-0)  / [Database](https://zenodo.org/record/5737968#.YjNo6lRlAuU) | ca. 2-3K (extracted from experimental lit)   
+| MOFs (experimental)                  | thermal stability, solvent removal stability         | yes (RAC & geometric features) | [Paper](https://www.nature.com/articles/s41597-022-01181-0)  / [Database](https://zenodo.org/record/5737968#.YjNo6lRlAuU) | ca. 2-3K (extracted from experimental lit) 
+| MOFs (experimental)                  | CO2, H2O DFT-calculated adsorption energy            | no                                   | [Paper](https://arxiv.org/pdf/2311.00341.pdf), [DataBase](https://open-dac.github.io/) | ca. 8400 MOFs, but 38M DFT calcs |
 
 ## labeled nodes for supervised learning
 
